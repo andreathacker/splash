@@ -1,0 +1,3 @@
+[submodule "modules/cwac-camera"]
+	path = modules/cwac-camera
+	url = git@github.com:davidargylethacker/cwac-camera.git
