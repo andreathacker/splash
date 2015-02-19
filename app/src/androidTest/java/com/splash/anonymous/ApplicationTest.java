@@ -1,4 +1,4 @@
-package com.splash.app;
+package com.splash.anonymous;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
