@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Splash.iml" filepath="$PROJECT_DIR$/Splash.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/cwac-camera/cwac-camera.iml" filepath="$PROJECT_DIR$/modules/cwac-camera/cwac-camera.iml" />
     </modules>
   </component>
 </project>
